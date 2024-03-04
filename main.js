@@ -31,7 +31,6 @@ function myMenuFunction(){
   }
 
 
-/* ----- TYPING EFFECT ----- */
  var typingEffect = new Typed(".typedText",{
     strings : ["I am IT student with good"," and In future i'll be cructial","influential IT  Professional"],
     loop : true,
